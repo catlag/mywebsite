@@ -1,4 +1,4 @@
-mywebsite
+My Website
 =========
 
-My GA project
+Hello, I'm Linda and this is my website!
